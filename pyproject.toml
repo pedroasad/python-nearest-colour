@@ -1,9 +1,12 @@
 [tool.poetry]
 name = "nearest-colour"
-version = "0.1.0"
+version = "1.0.0"
 description = "Find the nearest W3C/X11 named colors to a given color"
 authors = ["Pedro Asad <psa.exe@gmail.com>"]
 license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/pedroasad/python-nearest-colour"
+repository = "https://github.com/pedroasad/python-nearest-colour"
 
 packages = [
     {include = "nearest_colours"}

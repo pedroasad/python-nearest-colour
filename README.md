@@ -1,6 +1,6 @@
 # Nearest Colours
 
-[![](https://img.shields.io/badge/version-0.1.0-orange)](https://pypi.org/project/nearest-colour)
+[![](https://img.shields.io/badge/version-1.0.0-green)](https://pypi.org/project/nearest-colour)
 ![](https://img.shields.io/badge/Python-&ge;3.8-blue)
 
 Find the nearest W3C/X11 named colors to a given color.

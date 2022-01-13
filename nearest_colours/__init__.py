@@ -1,12 +1,12 @@
 import colorsys
 from pathlib import Path
-from typing import List, Literal, Tuple, Union
+from typing import List, Literal, Union
 
 import numpy as np
 import pandas as pd
 from colour import Color
 
-__version__ = "0.1.0"
+__version__ = "1.0.0"
 ColorSpace = Literal["hsv", "rgb", "yiq", "hls"]
 Profile = Literal["x11", "w3c"]
 
